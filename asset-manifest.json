@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "./static/css/main.1f55ca9a.css",
+    "main.js": "./static/js/main.a86410b6.js",
+    "static/media/Rubik-Bold.ttf": "./static/media/Rubik-Bold.c934eb22c2c69992b34c.ttf",
+    "static/media/Rubik-ExtraBold.ttf": "./static/media/Rubik-ExtraBold.1ab45dd33fc066882b45.ttf",
+    "static/media/Rubik-SemiBold.ttf": "./static/media/Rubik-SemiBold.869208702057daef053d.ttf",
+    "static/media/Rubik-Medium.ttf": "./static/media/Rubik-Medium.0e121b4fa4d6e9bc5c69.ttf",
+    "static/media/Rubik-Regular.ttf": "./static/media/Rubik-Regular.55fa11cdc8b9a3ee842f.ttf",
+    "static/media/Rubik-Light.ttf": "./static/media/Rubik-Light.9d2ccd264dc61b954019.ttf",
+    "static/media/tiktok-6338430_1280 1.svg": "./static/media/tiktok-6338430_1280 1.511140ede8428d3a441d11a0ace7905a.svg",
+    "static/media/Rectangle 10 (1).png": "./static/media/Rectangle 10 (1).303094c988c29507a943.png",
+    "static/media/Gilroy-UltraLight.ttf": "./static/media/Gilroy-UltraLight.6c356bf421a0b34d2b76.ttf",
+    "static/media/Gilroy-Light.ttf": "./static/media/Gilroy-Light.0ac7c2f9cb59ea1ba11c.ttf",
+    "static/media/Gilroy-Thin.ttf": "./static/media/Gilroy-Thin.fc813b757bc09eb509dc.ttf",
+    "static/media/Gilroy-Medium.ttf": "./static/media/Gilroy-Medium.1c23f810e531d0702f76.ttf",
+    "static/media/Gilroy-Regular.ttf": "./static/media/Gilroy-Regular.fa652e766b6a85a1f9cb.ttf",
+    "static/media/Gilroy-Semibold.ttf": "./static/media/Gilroy-Semibold.41fa36c3c8e966b35423.ttf",
+    "static/media/Gilroy-Bold.ttf": "./static/media/Gilroy-Bold.901a60fc2835c74fba67.ttf",
+    "static/media/Gilroy-Extrabold.ttf": "./static/media/Gilroy-Extrabold.92e435f7fae6070d73bb.ttf",
+    "static/media/calendar-minimalistic.svg": "./static/media/calendar-minimalistic.26f1b45b8fdf0e1e0901.svg",
+    "static/media/WhatsApp.svg": "./static/media/WhatsApp.9eeb6baf6e0b9dbe402ad180112c7e44.svg",
+    "static/media/slick.svg": "./static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "./static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "./static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "./static/media/slick.295183786cd8a1389865.woff",
+    "static/media/Telegram_2019_Logo.svg": "./static/media/Telegram_2019_Logo.a99e1a5670be723fe65fbb8595dc7f78.svg",
+    "index.html": "./index.html",
+    "static/media/Arrow 2.svg": "./static/media/Arrow 2.340647c3249e2834e91b214a2cd09000.svg",
+    "main.1f55ca9a.css.map": "./static/css/main.1f55ca9a.css.map",
+    "main.a86410b6.js.map": "./static/js/main.a86410b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f55ca9a.css",
+    "static/js/main.a86410b6.js"
+  ]
+}
